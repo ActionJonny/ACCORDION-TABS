@@ -100,7 +100,7 @@ a, .p-content {
   .content img {
     padding: 10px 0px;
     float: left;
-    width: 45%;
+    width: 40%;
     margin-left: 15px;
   }
 
@@ -113,7 +113,7 @@ a, .p-content {
 
   .tab-content {
     display: inline-flex;
-    width: 24.5%;
+    width: 24%;
   }
 
   .tab-link {
